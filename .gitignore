@@ -1,0 +1,20 @@
+# OSX
+#
+.DS_Store
+
+# IntelliJ
+#
+.idea
+*.iml
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# others
+/src/**/*.js
+/coverage
+/lib
+

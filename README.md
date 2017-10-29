@@ -1,2 +1,2 @@
 # rsc-scripts
-A scripts tool for react-smart-component
+A command line interface script tool for react-smart-component
